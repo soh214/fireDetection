@@ -1,0 +1,32 @@
+filename | phrase | meaningful_tokens | word_count | meaningful_token_count
+───────────────────────────────────────────────────────────────────────────
+0087_FL_FWW_00100.jpg | Flame engulfing construction site with bags. | flame engulfing construction site bags | 6 | 5
+0087_FL_FWW_00150.jpg | Flaming structure in a fenced area with debris. | flaming structure fenced area debris | 8 | 5
+0088_FL_FWW_00001.jpg | Flaming pile of debris in fenced area. | flaming pile debris fenced area | 7 | 5
+0089_FL_FWW_00001.jpg | Structure engulfed in flames within a greenhouse. | structure engulfed flames greenhouse | 7 | 4
+0121_FL_FWW_00126.jpg | Building on fire with firefighters and smoke. | building fire firefighters smoke | 7 | 4
+0132_FL_FWW_00089.jpg | Fire in industrial setting with smoke and flames. | fire industrial setting smoke flames | 8 | 5
+0150_FL_FWW_00256.jpg | Fire present, industrial setting, bright light illuminating debris. | fire present industrial setting bright light illuminating debris | 8 | 8
+0229_FL_FWW_00269.jpg | Wildfire burning near greenhouses and farm equipment. | wildfire burning greenhouses farm equipment | 7 | 5
+0328_FL_FWW_00293.jpg | Building on fire at night with flames and smoke. | building fire night flames smoke | 9 | 5
+0338_FL_FWW_00328.jpg | Firefighters battling a large industrial fire. | firefighters battling large industrial fire | 6 | 5
+AoF03409.jpg | Fire present, explosion, surrounded by trees at night. | fire present explosion surrounded trees night | 8 | 6
+PublicDataset00914.jpg | No fire present; luxurious room with warm lighting and artwork. | fire present luxurious room warm lighting artwork | 10 | 7
+PublicDataset00924.jpg | No fire present; dimly lit room with red ambiance. | fire present dimly lit room red ambiance | 9 | 7
+PublicDataset01288.jpg | No fire present; outdoor dining area with greenery and illuminated background. | fire present outdoor dining area greenery illuminated background | 11 | 8
+WEB00427.jpg | No fire present; urban area with sunset and waterfront. | fire present urban area sunset waterfront | 9 | 6
+WEB02324.jpg | No fire present; serene water scene with sun reflection. | fire present serene water scene sun reflection | 9 | 7
+WEB03419.jpg | No fire present; cityscape with a rainbow in the sky. | fire present cityscape rainbow sky | 10 | 5
+WEB07649 - Copy.jpg | Wildfire in urban area at night. | wildfire urban area night | 6 | 4
+WEB10106.jpg | Sunset with clouds, no fire present. | sunset clouds fire present | 6 | 4
+WEB10129.jpg | Sunset over cityscape with dramatic clouds. | sunset cityscape dramatic clouds | 6 | 4
+cooking1.jpeg | Chef cooking with a flaming wok in a dark, festive environment. | chef cooking flaming wok dark festive environment | 11 | 7
+cooking2.webp | Flame in a pan with a person using tongs, in a kitchen setting. | flame pan person using tongs kitchen setting | 13 | 7
+cooking3.jpeg | Campfire with pot over flames in a natural setting. | campfire pot flames natural setting | 9 | 5
+cooking4.jpeg | Flame from a kitchen fire. | flame kitchen fire | 5 | 3
+cooking5.jpeg | Flame in kitchen. | flame kitchen | 3 | 2
+ligther1.jpg | Flame burning in a dark environment. | flame burning dark environment | 6 | 4
+ligther2.jpg | Flame from a lighter in a dimly lit environment. | flame lighter dimly lit environment | 9 | 5
+smoking1.jpg | Person lighting a cigarette with a flame against a blue background. | person lighting cigarette flame blue background | 11 | 6
+smoking2.jpg | Person lighting a cigarette with a flame in a dark outdoor setting. | person lighting cigarette flame dark outdoor setting | 12 | 7
+smoking3.jpg | Person smoking a cigarette with smoke in the air. | person smoking cigarette smoke air | 9 | 5
