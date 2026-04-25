@@ -1,0 +1,33 @@
+prompt = "Describe this image briefly in one short sentence "
+
+
+0087_FL_FWW_00150.jpg | A fire is burning in a metal cage. | fire burning metal cage | 8 | 4
+0087_FL_FWW_00100.jpg | A pile of bags is on fire. | pile bags fire | 7 | 3
+0088_FL_FWW_00001.jpg | A fire is burning in a pile of trash. | fire burning pile trash | 9 | 4
+0089_FL_FWW_00001.jpg | A fire is burning in a metal structure. | fire burning metal structure | 8 | 4
+0121_FL_FWW_00126.jpg | Firemen are working on a fire that is burning a building. | Firemen working fire burning building | 11 | 5
+0132_FL_FWW_00089.jpg | A pipe is in the middle of a foggy area. | pipe middle foggy area | 10 | 4
+0150_FL_FWW_00256.jpg | A large machine is in a dark room with a bright light. | large machine dark room bright light | 12 | 6
+0229_FL_FWW_00269.jpg | A fire is burning in a field with a greenhouse in the background. | fire burning field greenhouse background | 13 | 5
+0328_FL_FWW_00293.jpg | A fire is burning in the distance, and the smoke is visible in the air. | fire burning distance smoke visible air | 15 | 6
+0338_FL_FWW_00328.jpg | A fireman wearing a fire suit and a backpack is standing in front of a fire. | fireman wearing fire suit backpack standing front fire | 16 | 8
+cooking2.webp | A pan of food is on fire. | pan food fire | 7 | 3
+cooking3.jpeg | A pot is hanging from a tree branch over a fire. | pot hanging tree branch fire | 11 | 5
+cooking5.jpeg | A chef cooking food in a kitchen. | chef cooking food kitchen | 7 | 4
+PublicDataset01288.jpg | A table with a bottle of wine on it. | table bottle wine | 9 | 3
+WEB10129.jpg | A sunset with a cloudy sky and a city in the background. | sunset cloudy sky city background | 12 | 5
+WEB10106.jpg | A sunset with a cloudy sky and a street light. | sunset cloudy sky street light | 10 | 5
+AoF03409.jpg | A blurry image of a street at night with a fire in the distance. | blurry image street night fire distance | 14 | 6
+PublicDataset00924.jpg | A room with a red light and a chair with a lit candle. | room red light chair lit candle | 13 | 6
+PublicDataset00914.jpg | A bedroom with a bed, a chair, and a fireplace. | bedroom bed chair fireplace | 10 | 4
+WEB00427.jpg | A city at dusk with a large building and a river. | city dusk large building river | 11 | 5
+WEB02324.jpg | A sunny day at the beach with a pier and a body of water. | sunny day beach pier body water | 14 | 6
+WEB03419.jpg | A rainbow is visible in the sky over a city. | rainbow visible sky city | 10 | 4
+WEB07649 - Copy.jpg | A car window shows a fire in the distance. | car window shows fire distance | 9 | 5
+smoking1.jpg | A woman smoking a cigarette. | woman smoking cigarette | 5 | 3
+smoking2.jpg | A man smoking a cigarette. | man smoking cigarette | 5 | 3
+ligther1.jpg | A lit lighter with a blue flame. | lit lighter blue flame | 7 | 4
+ligther2.jpg | A man is holding a lit lighter. | man holding lit lighter | 7 | 4
+smoking3.jpg | A woman smokes a cigarette while wearing sunglasses. | woman smokes cigarette wearing sunglasses | 8 | 5
+cooking1.jpg | A grill with a fish on it and a person standing behind it. | grill fish person standing | 13 | 4
+cooking4.jpeg | A chef is cooking food on a stove with flames. | chef cooking food stove flames | 10 | 5
