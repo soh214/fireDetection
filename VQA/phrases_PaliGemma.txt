@@ -1,0 +1,32 @@
+prompt = "Describe this image briefly"
+
+0087_FL_FWW_00150.jpg | A person taking a picture of a large fire. | person taking picture large fire | 9 | 5
+0087_FL_FWW_00100.jpg | A pile of bags that are on fire. | pile bags fire | 8 | 3
+0088_FL_FWW_00001.jpg | a fire is burning near a trash bin with the number 200 on it. | fire burning trash bin number | 14 | 5
+0089_FL_FWW_00001.jpg | a large metal structure is on fire with a pile of rubble on fire nearby. | large metal structure fire pile rubble fire | 15 | 7
+0121_FL_FWW_00126.jpg | A group of firemen are working to put out a fire. | group firemen working put fire | 11 | 5
+0132_FL_FWW_00089.jpg | a building that is on fire and smoke coming out of it | building fire smoke coming | 12 | 4
+0150_FL_FWW_00256.jpg | a sign on a building reads: 09-09-2023 sat. 04:51. | sign building reads sat | 9 | 4
+0229_FL_FWW_00269.jpg | a photo of a house with a lot of smoke | photo house lot smoke | 10 | 4
+0328_FL_FWW_00293.jpg | A building with a fire burning at night. | building fire burning night | 8 | 4
+0338_FL_FWW_00328.jpg | two firemen are trying to put out a fire that is burning a vat | firemen trying put fire burning vat | 14 | 6
+cooking2.webp | a chef cooking in a pan with flames on it | chef cooking pan flames | 10 | 4
+cooking3.jpeg | A pot of food cooking on top of a fire. | pot food cooking top fire | 10 | 5
+cooking5.jpeg | A chef is cooking over burning fire in the kitchen. | chef cooking burning fire kitchen | 10 | 5
+PublicDataset01288.jpg | A table that is set up on a deck. | table set deck | 9 | 3
+WEB10129.jpg | A big city skyline with a beautiful sunset. | big city skyline beautiful sunset | 8 | 5
+WEB10106.jpg | an image of a sunset with bruno fontes written in the bottom left corner | image sunset bruno fontes written bottom left corner | 14 | 8
+AoF03409.jpg | a picture of a light at night is dated 2020-12-22 01:11:47. | picture light night dated | 11 | 4
+PublicDataset00924.jpg | a red room with a big couch and a tv on the wall. | red room big couch tv wall | 13 | 6
+PublicDataset00914.jpg | a large bed a fireplace and a few chairs | large bed fireplace few chairs | 9 | 5
+WEB00427.jpg | An aerial view of a city atsunset. | aerial view city atsunset | 7 | 4
+WEB02324.jpg | A blue river and sky with posts and trees. | blue river sky posts trees | 9 | 5
+WEB03419.jpg | A rainbow in the sky with clouds and a tree | rainbow sky clouds tree | 10 | 4
+WEB07649 - Copy.jpg | a fire can be seen through a car window with a sign in the back that says 30 mph. | fire seen car window sign back says mph | 19 | 8
+smoking1.jpg | Woman smoking a cigarette and holding a lighter in her hand. | Woman smoking cigarette holding lighter hand | 11 | 6
+smoking2.jpg | A man holding a cigarette with both hands. | man holding cigarette hands | 8 | 4
+ligther1.jpg | A bright flame in front of a black background. | bright flame front black background | 9 | 5
+ligther2.jpg | This boy is holding a lit lighter. | boy holding lit lighter | 7 | 4
+smoking3.jpg | A woman smokes a cigarette while wearing sunglasses. | woman smokes cigarette wearing sunglasses | 8 | 5
+cooking1.jpg | a grill with a fire and a bird on it | grill fire bird | 10 | 3
+cooking4.jpeg | A chef cooking with a fire coming out of the pot. | chef cooking fire coming pot | 11 | 5
