@@ -1,0 +1,39 @@
+PROMPT = (
+    'Describe this image in one short phrase focusing on '
+    'whether fire is present, its nature (e.g. wildfire, campfire, industrial flame, explosion), '
+    'and the surrounding environment. '
+    'Reply with the phrase only.'
+)
+
+0087/0087_FL_FWW_00001.jpg | if fire is present, its nature (e.g. fire, campfire, industrial flame, etc.), and the surrounding environment.
+0087/0087_FL_FWW_00050.jpg | if fire is present, its nature (e.g. fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire
+0087/0087_FL_FWW_00100.jpg | if fire is present, its nature (e.g. wildfire, campfire, industrial flame, industrial explosion, industrial explosion, industrial fire, industrial explosion, industrial explosion, industrial explosion,
+0087/0087_FL_FWW_00150.jpg | if fire is present, its nature (e.g. wildfire, campfire, industrial flame, etc.), and the surrounding environment.
+0087/0087_FL_FWW_00200.jpg | if fire is present, its nature (e.g. wildfire, campfire, industrial flame, etc.), and the surrounding environment.
+0087/0087_FL_FWW_00250.jpg | if fire is present, its nature (e.g. fire, campfire, industrial flame, etc.), and the surrounding environment.
+0087/0087_FL_FWW_00300.jpg | if fire is present, its nature (e.g. fire, campfire, fire, etc.) and the surrounding environment.
+0087/0087_FL_FWW_00350.jpg | if fire is present, its nature (e.g. fire, campfire, fire, etc.), and the surrounding environment.
+0088/0088_FL_FWW_00001.jpg | if fire is present, its nature (e.g. fire, campfire, fire, etc.) and the surrounding environment.
+0088/0088_FL_FWW_00050.jpg | if fire is present, its nature (e.g. wildfire, campfire, industrial flame, etc.), and its surrounding environment.
+0088/0088_FL_FWW_00100.jpg | if fire is present, its nature (e.g. wildfire, campfire, industrial flame, etc.), and the surrounding environment.
+0088/0088_FL_FWW_00150.jpg | if fire is present, its nature (e.g. wildfire, campfire, industrial flame, etc.), and the surrounding environment.
+0088/0088_FL_FWW_00200.jpg | if fire is present, its nature (e.g. wildfire, campfire, industrial flame, etc.), and the surrounding environment.
+0088/0088_FL_FWW_00250.jpg | if fire is present, its nature (e.g. fire, campfire, industrial flame, etc.), and the surrounding environment.
+0088/0088_FL_FWW_00300.jpg | if fire is present, its nature (e.g. fire, campfire, industrial flame, etc.), and the surrounding environment.
+0088/0088_FL_FWW_00350.jpg | if fire is present, its nature (wildfire, campfire, fire, etc.), and its surrounding environment.
+0089/0089_FL_FWW_00001.jpg | if fire is present, its nature (e.g. fire, campfire, industrial flame, etc.), and the surrounding environment.
+0089/0089_FL_FWW_00050.jpg | if fire is present, its nature (e.g. fire, campfire, industrial flame, etc.), and the surrounding environment.
+0089/0089_FL_FWW_00100.jpg | if fire is present, its nature (e.g. fire, campfire, industrial flame, etc.), and the surrounding environment.
+0089/0089_FL_FWW_00150.jpg | if fire is present, its nature (e.g. fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire
+0089/0089_FL_FWW_00200.jpg | if fire is present, its nature (e.g. fire, campfire, industrial flame, industrial explosion, etc.), and the surrounding environment.
+0089/0089_FL_FWW_00250.jpg | if fire is present, its nature (e.g. fire, campfire, industrial flame, industrial explosion, etc.), and the surrounding environment.
+0089/0089_FL_FWW_00300.jpg | if fire is present, its nature (e.g. fire, campfire, industrial flame, etc.), and the surrounding environment.
+0089/0089_FL_FWW_00350.jpg | if fire is present, its nature (e.g. fire, campfire, industrial flame, industrial explosion, industrial explosion, industrial fire, industrial explosion, industrial explosion, industrial explosion, industrial
+0090/0090_FL_FWW_00001.jpg | if fire is present, its nature (e.g. fire, campfire, industrial flame, explosion, etc.) and the surrounding environment.
+0090/0090_FL_FWW_00050.jpg | if fire is present, its nature (e.g. fire, campfire, industrial flame, industrial explosion, industrial explosion, industrial fire, industrial explosion, industrial explosion, industrial explosion, industrial
+0090/0090_FL_FWW_00100.jpg | if fire is present, its nature (e.g. fire, campfire, industrial flame, etc.), and the surrounding environment.
+0090/0090_FL_FWW_00150.jpg | if fire is present, its nature (e.g. fire, campfire, industrial flame, etc.), and the surrounding environment.
+0090/0090_FL_FWW_00200.jpg | if fire is present, its nature (e.g. fire, campfire, industrial flame, etc.), and the surrounding environment.
+0090/0090_FL_FWW_00250.jpg | if fire is present, its nature (e.g. fire, campfire, industrial flame, etc.), and the surrounding environment.
+0090/0090_FL_FWW_00300.jpg | if fire is present, its nature (e.g. fire, campfire, industrial flame, industrial explosion, industrial explosion, industrial fire, industrial explosion, industrial explosion, industrial explosion, industrial
+0090/0090_FL_FWW_00350.jpg | if fire is present, its nature (e.g. fire, campfire, industrial flame, etc.), and the surrounding environment.

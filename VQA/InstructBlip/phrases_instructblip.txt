@@ -1,39 +1,33 @@
-PROMPT = (
-    'Describe this image in one short phrase focusing on '
-    'whether fire is present, its nature (e.g. wildfire, campfire, industrial flame, explosion), '
-    'and the surrounding environment. '
-    'Reply with the phrase only.'
-)
+prompt = "Describe this image briefly"
 
-0087/0087_FL_FWW_00001.jpg | if fire is present, its nature (e.g. fire, campfire, industrial flame, etc.), and the surrounding environment.
-0087/0087_FL_FWW_00050.jpg | if fire is present, its nature (e.g. fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire
-0087/0087_FL_FWW_00100.jpg | if fire is present, its nature (e.g. wildfire, campfire, industrial flame, industrial explosion, industrial explosion, industrial fire, industrial explosion, industrial explosion, industrial explosion,
-0087/0087_FL_FWW_00150.jpg | if fire is present, its nature (e.g. wildfire, campfire, industrial flame, etc.), and the surrounding environment.
-0087/0087_FL_FWW_00200.jpg | if fire is present, its nature (e.g. wildfire, campfire, industrial flame, etc.), and the surrounding environment.
-0087/0087_FL_FWW_00250.jpg | if fire is present, its nature (e.g. fire, campfire, industrial flame, etc.), and the surrounding environment.
-0087/0087_FL_FWW_00300.jpg | if fire is present, its nature (e.g. fire, campfire, fire, etc.) and the surrounding environment.
-0087/0087_FL_FWW_00350.jpg | if fire is present, its nature (e.g. fire, campfire, fire, etc.), and the surrounding environment.
-0088/0088_FL_FWW_00001.jpg | if fire is present, its nature (e.g. fire, campfire, fire, etc.) and the surrounding environment.
-0088/0088_FL_FWW_00050.jpg | if fire is present, its nature (e.g. wildfire, campfire, industrial flame, etc.), and its surrounding environment.
-0088/0088_FL_FWW_00100.jpg | if fire is present, its nature (e.g. wildfire, campfire, industrial flame, etc.), and the surrounding environment.
-0088/0088_FL_FWW_00150.jpg | if fire is present, its nature (e.g. wildfire, campfire, industrial flame, etc.), and the surrounding environment.
-0088/0088_FL_FWW_00200.jpg | if fire is present, its nature (e.g. wildfire, campfire, industrial flame, etc.), and the surrounding environment.
-0088/0088_FL_FWW_00250.jpg | if fire is present, its nature (e.g. fire, campfire, industrial flame, etc.), and the surrounding environment.
-0088/0088_FL_FWW_00300.jpg | if fire is present, its nature (e.g. fire, campfire, industrial flame, etc.), and the surrounding environment.
-0088/0088_FL_FWW_00350.jpg | if fire is present, its nature (wildfire, campfire, fire, etc.), and its surrounding environment.
-0089/0089_FL_FWW_00001.jpg | if fire is present, its nature (e.g. fire, campfire, industrial flame, etc.), and the surrounding environment.
-0089/0089_FL_FWW_00050.jpg | if fire is present, its nature (e.g. fire, campfire, industrial flame, etc.), and the surrounding environment.
-0089/0089_FL_FWW_00100.jpg | if fire is present, its nature (e.g. fire, campfire, industrial flame, etc.), and the surrounding environment.
-0089/0089_FL_FWW_00150.jpg | if fire is present, its nature (e.g. fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire, fire
-0089/0089_FL_FWW_00200.jpg | if fire is present, its nature (e.g. fire, campfire, industrial flame, industrial explosion, etc.), and the surrounding environment.
-0089/0089_FL_FWW_00250.jpg | if fire is present, its nature (e.g. fire, campfire, industrial flame, industrial explosion, etc.), and the surrounding environment.
-0089/0089_FL_FWW_00300.jpg | if fire is present, its nature (e.g. fire, campfire, industrial flame, etc.), and the surrounding environment.
-0089/0089_FL_FWW_00350.jpg | if fire is present, its nature (e.g. fire, campfire, industrial flame, industrial explosion, industrial explosion, industrial fire, industrial explosion, industrial explosion, industrial explosion, industrial
-0090/0090_FL_FWW_00001.jpg | if fire is present, its nature (e.g. fire, campfire, industrial flame, explosion, etc.) and the surrounding environment.
-0090/0090_FL_FWW_00050.jpg | if fire is present, its nature (e.g. fire, campfire, industrial flame, industrial explosion, industrial explosion, industrial fire, industrial explosion, industrial explosion, industrial explosion, industrial
-0090/0090_FL_FWW_00100.jpg | if fire is present, its nature (e.g. fire, campfire, industrial flame, etc.), and the surrounding environment.
-0090/0090_FL_FWW_00150.jpg | if fire is present, its nature (e.g. fire, campfire, industrial flame, etc.), and the surrounding environment.
-0090/0090_FL_FWW_00200.jpg | if fire is present, its nature (e.g. fire, campfire, industrial flame, etc.), and the surrounding environment.
-0090/0090_FL_FWW_00250.jpg | if fire is present, its nature (e.g. fire, campfire, industrial flame, etc.), and the surrounding environment.
-0090/0090_FL_FWW_00300.jpg | if fire is present, its nature (e.g. fire, campfire, industrial flame, industrial explosion, industrial explosion, industrial fire, industrial explosion, industrial explosion, industrial explosion, industrial
-0090/0090_FL_FWW_00350.jpg | if fire is present, its nature (e.g. fire, campfire, industrial flame, etc.), and the surrounding environment.
+
+0087_FL_FWW_00150.jpg | a fire engulfs a building, causing it to collapse. | fire engulfs building causing collapse | 9 | 5
+0087_FL_FWW_00100.jpg | Several people are standing in a crowded area, with a lot of people and a lot of people. | Several people standing crowded area lot people lot people | 18 | 9
+0088_FL_FWW_00001.jpg | a fire engulfs a hut, surrounded by a fire pit, and a sand pit. | fire engulfs hut surrounded fire pit sand pit | 14 | 8
+0089_FL_FWW_00001.jpg | a fire burning in a hay barn, with a fire hose in the background. | fire burning hay barn fire hose background | 14 | 7
+0121_FL_FWW_00126.jpg | Several firemen are battling a fire in a large warehouse. | Several firemen battling fire large warehouse | 10 | 6
+0132_FL_FWW_00089.jpg | a fire is burning in a room with a fireplace and a stove. | fire burning room fireplace stove | 13 | 5
+0150_FL_FWW_00256.jpg | Several fires are burning in the background of the image. | Several fires burning background image | 10 | 5
+0229_FL_FWW_00269.jpg | Several large greenhouses are shown in the image. | Several large greenhouses shown image | 8 | 5
+0328_FL_FWW_00293.jpg | Several fires are burning in a large building in the background. | Several fires burning large building background | 11 | 6
+0338_FL_FWW_00328.jpg | Several firefighters are standing in a firefighting gear in a warehouse. | Several firefighters standing firefighting gear warehouse | 11 | 6
+cooking2.webp | a person is cooking a meal in a pan, pan, or skillet. | person cooking meal pan pan skillet | 12 | 6
+cooking3.jpeg | a campfire with a pot on it, a fire pit, and a firewood fire. | campfire pot fire pit firewood fire | 14 | 6
+cooking5.jpeg | a chef is cooking a dish in a large pot on a stovetop in a kitchen. | chef cooking dish large pot stovetop kitchen | 16 | 7
+PublicDataset01288.jpg | a dining table with chairs and a tablecloth in the middle of a wooden deck with a wooden table and chairs. | dining table chairs tablecloth middle wooden deck wooden table chairs | 21 | 10
+WEB10129.jpg | a sunset with clouds and a city skyline in the background. | sunset clouds city skyline background | 11 | 5
+WEB10106.jpg | a sunset with a beautiful sky and clouds in the sky. | sunset beautiful sky clouds sky | 11 | 5
+AoF03409.jpg | Several people are standing in a dark street with a street lamp in the background. | Several people standing dark street street lamp background | 15 | 8
+PublicDataset00924.jpg | a dark room with a few chairs, a few tables, a few chairs, a few tables, and a few chairs. | dark room few chairs few tables few chairs few tables few chairs | 20 | 12
+PublicDataset00914.jpg | a bedroom with a bed, a dresser, a chair, a sofa, a chair, a sofa, a chair, a sofa, a chair, a sofa, a chair,  | bedroom bed dresser chair sofa chair sofa chair sofa chair sofa chair | 25 | 12
+WEB00427.jpg | a cityscape with a city skyline and a sunset. | cityscape city skyline sunset | 9 | 4
+WEB02324.jpg | a calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm | calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm calm | 49 | 48
+WEB03419.jpg | a rainbow rainbow in the sky with a rainbow in the sky. | rainbow rainbow sky rainbow sky | 12 | 5
+WEB07649 - Copy.jpg | a fire engulfs a building in the distance. | fire engulfs building distance | 8 | 4
+smoking1.jpg | a woman smoking a cigarette in her mouth | woman smoking cigarette mouth | 8 | 4
+smoking2.jpg | a man is smoking a cigarette in a dark room with a dark background. | man smoking cigarette dark room dark background | 14 | 7
+ligther1.jpg | a person holding a lighter in his hand. | person holding lighter hand | 8 | 4
+ligther2.jpg | a man holding a lighter in his hand. | man holding lighter hand | 8 | 4
+smoking3.jpg | a woman is smoking a cigarette in front of a window. | woman smoking cigarette front window | 11 | 5
+cooking1.jpg | a man is cooking fish on a grill in a kitchen. | man cooking fish grill kitchen | 11 | 5
+cooking4.jpeg | Several chefs are preparing a meal in a kitchen. The chef is preparing a dish in a large pot, while the other chefs are preparing the ingredients. The chef is preparing a dish in a large | Several chefs preparing meal kitchen chef preparing dish large pot other chefs preparing ingredients chef preparing dish large | 36 | 18
