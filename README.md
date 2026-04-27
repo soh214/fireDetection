@@ -1,4 +1,4 @@
-# fireDetection
+# Fire Detection
 
  Development of an intelligent fire detection system combining vision and contextual information
  
