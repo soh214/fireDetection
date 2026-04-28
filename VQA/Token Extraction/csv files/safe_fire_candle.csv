@@ -1,0 +1,201 @@
+filename,phrase,meaningful_tokens,word_count,meaningful_token_count
+candle1.jpg,Candlelight illuminates an open book on a reflective surface.,candlelight illuminates open book reflective surface,9,6
+candle2.jpg,Candle flame illuminates an open book in a dark environment.,candle flame illuminates open book dark environment,10,7
+candle3.jpg,"Candle flame in a dark, serene environment.",candle flame dark serene environment,7,5
+candle4.jpg,Red candle flame with holiday decorations.,red candle flame holiday decorations,6,5
+candle5.jpg,Red candles burning on a festive holiday arrangement.,red candles burning festive holiday arrangement,8,6
+candle6.jpg,"Golden candle flames on a dark, festive background.",golden candle flames dark festive background,8,6
+candle7.jpg,Red candles burning brightly against a black background.,red candles burning brightly black background,8,6
+candle8.jpg,"Candlelight in a festive, dark holiday setting.",candlelight festive dark holiday setting,7,5
+candle9.jpg,"Candlelight in festive, bokeh-lit environment.",candlelight festive bokeh-lit environment,5,4
+candle10.jpg,Red candles lit on a green pine branch with flowers in the background.,red candles lit green pine branch flowers background,13,8
+candle11.jpg,"Candle flame in festive, dimly lit environment.",candle flame festive dimly lit environment,7,6
+candle12.jpg,"Candle flame in a dark, festive setting.",candle flame dark festive setting,7,5
+candle13.jpg,Candle flame in dimly lit environment.,candle flame dimly lit environment,6,5
+candle14.jpg,Flame burning inside a green apple against a dark background.,flame burning inside green apple dark background,10,7
+candle15.jpg,Candle flame burning in a dark environment.,candle flame burning dark environment,7,5
+candle16.jpg,"Candle flame in a dark, serene environment.",candle flame dark serene environment,7,5
+candle17.jpg,Candle flame on a chocolate cake with flowers.,candle flame chocolate cake flowers,8,5
+candle18.jpg,Golden Buddha statue with lit candles on wooden background.,golden buddha statue lit candles wooden background,9,7
+candle19.jpg,"Candle flame burning in a dark, serene environment.",candle flame burning dark serene environment,8,6
+candle20.jpg,Candle flame burning in a dark environment.,candle flame burning dark environment,7,5
+candle21.jpg,Candle flame burning in a rustic setting.,candle flame burning rustic setting,7,5
+candle22.jpg,"Candle flame illuminates a dim, textured surface.",candle flame illuminates dim textured surface,7,6
+candle23.jpg,Candle flame burning in a dark environment.,candle flame burning dark environment,7,5
+candle24.jpg,Candle flame burning in a dark environment.,candle flame burning dark environment,7,5
+candle25.jpg,Candle flame burning in a dark environment.,candle flame burning dark environment,7,5
+candle26.jpg,Candle flame burning in a rustic wooden setting.,candle flame burning rustic wooden setting,8,6
+candle27.jpg,Candle flame surrounded by shiny ornaments.,candle flame surrounded shiny ornaments,6,5
+candle28.jpg,Campfire flame burning on grassy field.,campfire flame burning grassy field,6,5
+candle29.jpg,Candle flame burning in a dark environment.,candle flame burning dark environment,7,5
+candle30.jpg,Candle flame burning against a dark background.,candle flame burning dark background,7,5
+candle31.jpg,Candle flame burning in a softly lit room.,candle flame burning softly lit room,8,6
+candle32.jpg,"Candle flame in a glass holder, dimly lit background.",candle flame glass holder dimly lit background,9,7
+candle33.jpg,"Candle flame in rustic, natural setting.",candle flame rustic natural setting,6,5
+candle34.jpg,Candle flame burning brightly against a dark background.,candle flame burning brightly dark background,8,6
+candle35.jpg,Candle flame in a dimly lit room.,candle flame dimly lit room,7,5
+candle36.jpg,"Candle flame in a star-shaped holder, dimly lit environment.",candle flame star-shaped holder dimly lit environment,9,7
+candle37.jpg,Candle flame in a dimly lit environment.,candle flame dimly lit environment,7,5
+candle38.jpg,"Candle flame held in hands, dark background.",candle flame held hands dark background,7,6
+candle39.jpg,"Candle flame held in a hand, dimly lit background.",candle flame held hand dimly lit background,9,7
+candle40.jpg,Candle flame in rustic wooden setting.,candle flame rustic wooden setting,6,5
+candle41.jpg,Candle flame burning in a dark environment.,candle flame burning dark environment,7,5
+candle42.jpg,Candle flame burning brightly against a dark background.,candle flame burning brightly dark background,8,6
+candle43.jpg,Candle flame burning brightly against a dark background.,candle flame burning brightly dark background,8,6
+candle44.jpg,"Candle flame with matchstick, warm, intimate setting.",candle flame matchstick warm intimate setting,7,6
+candle45.jpg,Candle flame burning in a dimly lit environment.,candle flame burning dimly lit environment,8,6
+candle46.jpg,Red candle flame burning against a black background.,red candle flame burning black background,8,6
+candle47.jpg,Candle flame on festive red-patterned surface.,candle flame festive red-patterned surface,6,5
+candle48.jpg,"Candle flame in a dark, festive environment.",candle flame dark festive environment,7,5
+candle49.jpg,Candle flame burning in a dark environment.,candle flame burning dark environment,7,5
+candle50.jpg,"Candle flame in cosmic, starry background.",candle flame cosmic starry background,6,5
+candle51.jpg,Candle flame burning in a dark environment.,candle flame burning dark environment,7,5
+candle52.jpg,Candle flame burning in a dark environment.,candle flame burning dark environment,7,5
+candle53.jpg,"Candle flame in a dark, reflective environment.",candle flame dark reflective environment,7,5
+candle54.jpg,Candle flame igniting another candle in a dark environment.,candle flame igniting another candle dark environment,9,7
+candle55.jpg,Candle flame in a festive setting with pine cones and berries.,candle flame festive setting pine cones berries,11,7
+candle56.jpg,Candle flame burning in a dark environment.,candle flame burning dark environment,7,5
+candle57.jpg,Candle flame burning in a dark environment.,candle flame burning dark environment,7,5
+candle58.jpg,Red candle burning amidst snow-covered branches.,red candle burning amidst snow-covered branches,6,6
+candle59.jpg,Candle flame on a wooden surface with bokeh lights in the background.,candle flame wooden surface bokeh lights background,12,7
+candle60.jpg,Candle flame burning in a dark environment.,candle flame burning dark environment,7,5
+candle61.jpg,Candle flame in a cozy quilted setting.,candle flame cozy quilted setting,7,5
+candle62.jpg,Candle flame in a rustic setting.,candle flame rustic setting,6,4
+candle63.jpg,"Red candle flame on reflective surface, dimly lit background.",red candle flame reflective surface dimly lit background,9,8
+candle64.jpg,"Red candle flame surrounded by beads, dimly lit.",red candle flame surrounded beads dimly lit,8,7
+candle65.jpg,Candle flame burning against a black background.,candle flame burning black background,7,5
+candle66.jpg,Candle flame surrounded by ornaments and lights.,candle flame surrounded ornaments lights,7,5
+candle67.jpg,Candle flame burning in a dark environment.,candle flame burning dark environment,7,5
+candle68.jpg,Red candle flame on snowy surface with pine branches.,red candle flame snowy surface pine branches,9,7
+candle69.jpg,Candle flame on a textured fabric background.,candle flame textured fabric background,7,5
+candle70.jpg,Candle flame in a dimly lit room.,candle flame dimly lit room,7,5
+candle71.jpg,Candle flame burning against a black background.,candle flame burning black background,7,5
+candle72.jpg,Candle flame in a dimly lit room.,candle flame dimly lit room,7,5
+candle73.jpg,Candle flame burning in a dark environment.,candle flame burning dark environment,7,5
+candle74.jpg,Candle flame burning in a red candle.,candle flame burning red candle,7,5
+candle75.jpg,Flame on pine cone with glittering ornaments in dark background.,flame pine cone glittering ornaments dark background,10,7
+candle76.jpg,Candle flame burning in a dimly lit environment.,candle flame burning dimly lit environment,8,6
+candle77.jpg,Candle flame on a wooden surface with books and a rose.,candle flame wooden surface books rose,11,6
+candle78.jpg,"Candle flame burning in a dark, red-lit environment.",candle flame burning dark red-lit environment,8,6
+candle79.jpg,"Candle flame on a festive, star-patterned surface.",candle flame festive star-patterned surface,7,5
+candle80.jpg,"Candle flame on a white, festive table.",candle flame white festive table,7,5
+candle81.jpg,Red candle flame surrounded by festive greenery.,red candle flame surrounded festive greenery,7,6
+candle82.jpg,Candle flame burning in a dimly lit environment.,candle flame burning dimly lit environment,8,6
+candle83.jpg,Candle flame in a dark environment.,candle flame dark environment,6,4
+candle84.jpg,Candle flame burning in a dimly lit environment.,candle flame burning dimly lit environment,8,6
+candle85.jpg,"Candle flame in a glass jar, softly glowing outdoors.",candle flame glass jar softly glowing outdoors,9,7
+candle86.jpg,"Candle flame in dim, bokeh-lit environment.",candle flame dim bokeh-lit environment,6,5
+candle87.jpg,Single candle flame burning in a dark environment.,single candle flame burning dark environment,8,6
+candle88.jpg,Candle flame burning in a dark environment.,candle flame burning dark environment,7,5
+candle89.jpg,Candle flame in a dimly lit environment.,candle flame dimly lit environment,7,5
+candle90.jpg,Candle flame illuminates green leaves on a table.,candle flame illuminates green leaves table,8,6
+candle91.jpg,Candle flame on a table with greenery and soft lighting.,candle flame table greenery soft lighting,10,6
+candle92.jpg,Candles flickering in a dimly lit environment.,candles flickering dimly lit environment,7,5
+candle93.jpg,Candle flame burning in a dark environment.,candle flame burning dark environment,7,5
+candle94.jpg,Candle flame burning in a dark environment.,candle flame burning dark environment,7,5
+candle95.jpg,Three lit candles on a dark surface.,three lit candles dark surface,7,5
+candle96.jpg,Candlelight illuminates festive holiday scene.,candlelight illuminates festive holiday scene,5,5
+candle97.jpg,Candle flame in a dark environment.,candle flame dark environment,6,4
+candle98.jpg,"Candle flame in a starry, cosmic environment.",candle flame starry cosmic environment,7,5
+candle99.jpg,"Candle flame in a dark, reflective surface.",candle flame dark reflective surface,7,5
+candle100.jpg,Candle flame surrounded by greenery on a wooden surface.,candle flame surrounded greenery wooden surface,9,6
+candle101.jpg,Candlelight on a wooden table in a dimly lit room.,candlelight wooden table dimly lit room,10,6
+candle102.jpg,Candles flickering on a metallic tray in a dimly lit room.,candles flickering metallic tray dimly lit room,11,7
+candle103.jpg,Three white candles burning in a dimly lit room.,three white candles burning dimly lit room,9,7
+candle104.jpg,Candle flame on a textured surface with pine cones and star decoration.,candle flame textured surface pine cones star decoration,12,8
+candle105.jpg,Candles burning on a snowy surface with pine branches.,candles burning snowy surface pine branches,9,6
+candle106.jpg,"Red lantern glowing in a dark, nighttime environment.",red lantern glowing dark nighttime environment,8,6
+candle107.jpg,"Child holding a lit ""Happy Christmas"" candle in a dimly lit room.",child holding lit happy christmas candle dimly lit room,12,9
+candle108.jpg,Candles flicker against a brick wall.,candles flicker brick wall,6,4
+candle109.jpg,Candle flame in a glass holder surrounded by green pine branches.,candle flame glass holder surrounded green pine branches,11,8
+candle110.jpg,Candle flame on rustic wooden surface with pine branches.,candle flame rustic wooden surface pine branches,9,7
+candle111.jpg,"Candle flame burning in a dark, mysterious environment.",candle flame burning dark mysterious environment,8,6
+candle112.jpg,Candle flame on a Christmas tree branch.,candle flame christmas tree branch,7,5
+candle113.jpg,"Candle flame on Christmas tree, warm glow.",candle flame christmas tree warm glow,7,6
+candle114.jpg,Candle flame on a Christmas tree branch.,candle flame christmas tree branch,7,5
+candle115.jpg,"Candle flame in a snowy, festive setting.",candle flame snowy festive setting,7,5
+candle116.jpg,Red candle flame on a snowy surface with pine branches.,red candle flame snowy surface pine branches,10,7
+candle117.jpg,"Candle flame on wooden surface, softly lit.",candle flame wooden surface softly lit,7,6
+candle118.jpg,Candle flame in a dimly lit room.,candle flame dimly lit room,7,5
+candle119.jpg,Candle flame burning in a dark environment.,candle flame burning dark environment,7,5
+candle120.jpg,Three lit candles burning against a dark background.,three lit candles burning dark background,8,6
+candle121.jpg,"Candle flame in a textured holder, warm and intimate.",candle flame textured holder warm intimate,9,6
+candle122.jpg,"Candle flame in a dark, bokeh-lit environment.",candle flame dark bokeh-lit environment,7,5
+candle123.jpg,Candles burning in a dark environment.,candles burning dark environment,6,4
+candle124.jpg,Hands holding a lit candle in a dark environment.,hands holding lit candle dark environment,9,6
+candle125.jpg,Candle flame in lantern on cobblestone street.,candle flame lantern cobblestone street,7,5
+candle126.jpg,Candle flame burning in a dark environment.,candle flame burning dark environment,7,5
+candle127.jpg,Candle flame burning in a dark environment.,candle flame burning dark environment,7,5
+candle128.jpg,Candle flame with festive decorations in a white setting.,candle flame festive decorations white setting,9,6
+candle129.jpg,"Black cauldron with a bright, flickering flame.",black cauldron bright flickering flame,7,5
+candle130.jpg,Birthday candles burning on a cake.,birthday candles burning cake,6,4
+candle131.jpg,"Candle flame on aged books, dark background.",candle flame aged books dark background,7,6
+candle132.jpg,"Candle flame on a soft, neutral background.",candle flame soft neutral background,7,5
+candle133.jpg,"Candle flame burning in a dark, reflective surface.",candle flame burning dark reflective surface,8,6
+candle134.jpg,Candle flame illuminates pumpkins and apples in a dark setting.,candle flame illuminates pumpkins apples dark setting,10,7
+candle135.jpg,Candle flame illuminates pumpkins in a dark setting.,candle flame illuminates pumpkins dark setting,8,6
+candle136.jpg,"Candle flame on reflective surface, surrounded by rose petals.",candle flame reflective surface surrounded rose petals,9,7
+candle137.jpg,"Candle flame on wooden surface with towels, stones, and seashell.",candle flame wooden surface towels stones seashell,10,7
+candle138.jpg,Candles burning in a dimly lit room.,candles burning dimly lit room,7,5
+candle139.jpg,"Candle flame burning in a dark, bokeh-lit environment.",candle flame burning dark bokeh-lit environment,8,6
+candle140.jpg,Candle flame on a romantic dinner table with red curtains.,candle flame romantic dinner table red curtains,10,7
+candle141.jpg,"Candle flame in a glass holder, dimly lit background.",candle flame glass holder dimly lit background,9,7
+candle142.jpg,Candle flame on rustic wooden surface with pine cones and citrus slices.,candle flame rustic wooden surface pine cones citrus slices,12,9
+candle143.jpg,Candles burning in a dimly lit room.,candles burning dimly lit room,7,5
+candle144.jpg,Candle flame surrounded by smooth stones in a serene setting.,candle flame surrounded smooth stones serene setting,10,7
+candle145.jpg,"Candle flame on a festive, bokeh-lit surface.",candle flame festive bokeh-lit surface,7,5
+candle146.jpg,"Candles lit in a dimly lit, ornate room.",candles lit dimly lit ornate room,8,6
+candle147.jpg,Candle flame in a decorative glass holder.,candle flame decorative glass holder,7,5
+candle148.jpg,Candle flames on a chocolate cake with colorful balloons.,candle flames chocolate cake colorful balloons,9,6
+candle149.jpg,"Candles lit on a table, creating a warm, festive atmosphere.",candles lit table creating warm festive atmosphere,10,7
+candle150.jpg,"Candle flame in a serene, softly lit room.",candle flame serene softly lit room,8,6
+candle151.jpg,Candle flame in dimly lit environment.,candle flame dimly lit environment,6,5
+candle152.jpg,"Candle flame in a carton of brown eggs, soft lighting.",candle flame carton brown eggs soft lighting,10,7
+candle153.jpg,Candlelight illuminates a dimly lit room with a candle holder.,candlelight illuminates dimly lit room candle holder,10,7
+candle154.jpg,Candle flame burning in a dark environment.,candle flame burning dark environment,7,5
+candle155.jpg,People holding lit candles in a dimly lit room.,people holding lit candles dimly lit room,9,7
+candle156.jpg,Candle flame on chocolate cake with cookies.,candle flame chocolate cake cookies,7,5
+candle157.jpg,Candlelight illuminates a wooden table with a drink.,candlelight illuminates wooden table drink,8,5
+candle158.jpg,Candles and pumpkins on a rustic stone wall.,candles pumpkins rustic stone wall,8,5
+candle159.jpg,Child smiling at lit birthday candles in a dark room.,child smiling lit birthday candles dark room,10,7
+candle160.jpg,"Candlelight arrangement on wooden floor, creating a warm ambiance.",candlelight arrangement wooden floor creating warm ambiance,9,7
+candle161.jpg,Child blowing out birthday candle on chocolate cake.,child blowing out birthday candle chocolate cake,8,7
+candle162.jpg,Candles flicker in a dimly lit church setting.,candles flicker dimly lit church setting,8,6
+candle163.jpg,Candles burning in a dimly lit room.,candles burning dimly lit room,7,5
+candle164.jpg,"Candles lit on kitchen counter, creating warm ambiance.",candles lit kitchen counter creating warm ambiance,8,7
+candle165.jpg,"Candles in a dimly lit room, creating a warm, serene atmosphere.",candles dimly lit room creating warm serene atmosphere,11,8
+candle166.jpg,"Candlelight dinner with two women, dimly lit, elegant ambiance.",candlelight dinner two women dimly lit elegant ambiance,9,8
+candle167.jpg,Candlelight celebration in a dimly lit room.,candlelight celebration dimly lit room,7,5
+candle168.jpg,Two lit candles on a wooden surface.,two lit candles wooden surface,7,5
+candle169.jpg,Candle flame on a dimly lit dining table.,candle flame dimly lit dining table,8,6
+candle170.jpg,"Candle flame on a wooden table, softly lit.",candle flame wooden table softly lit,8,6
+candle171.jpg,Candlelight ambiance with a glass of wine.,candlelight ambiance glass wine,7,4
+candle172.jpg,Candle flame burning in a dimly lit environment.,candle flame burning dimly lit environment,8,6
+candle173.jpg,Candle flame on a menorah in a dimly lit environment.,candle flame menorah dimly lit environment,10,6
+candle174.jpg,"Candle flames on a chocolate dessert, warm and inviting.",candle flames chocolate dessert warm inviting,9,6
+candle175.jpg,"Candlelight in glass jars, creating a warm, festive atmosphere.",candlelight glass jars creating warm festive atmosphere,9,7
+candle176.jpg,Candlelit dinner in medieval room.,candlelit dinner medieval room,5,4
+candle177.jpg,Candlelight illuminates a glass of oil on a tablecloth.,candlelight illuminates glass oil tablecloth,9,5
+candle178.jpg,Candles lit on a golden table in a cozy room.,candles lit golden table cozy room,10,6
+candle179.jpg,Candle flame burning in a dark environment.,candle flame burning dark environment,7,5
+candle180.jpg,Candlelight illuminates a birthday cake in a dimly lit room.,candlelight illuminates birthday cake dimly lit room,10,7
+candle181.jpg,"Candle flame illuminates dark, textured surface.",candle flame illuminates dark textured surface,6,6
+candle182.jpg,Candles burning in a dimly lit room with stuffed animals.,candles burning dimly lit room stuffed animals,10,7
+candle183.jpg,Candle flame in a dimly lit environment.,candle flame dimly lit environment,7,5
+candle184.jpg,Shrimp candle holder with lit candle on table.,shrimp candle holder lit candle table,8,6
+candle185.jpg,Candles burning in a brick fireplace.,candles burning brick fireplace,6,4
+candle186.jpg,Candle flame on wooden table with autumn-themed items.,candle flame wooden table autumn-themed items,8,6
+candle187.jpg,Candlelit dinner in rustic room with large window.,candlelit dinner rustic room large window,8,6
+candle188.jpg,Candlelight in cozy living room setting.,candlelight cozy living room setting,6,5
+candle189.jpg,Candle flame with origami tree decoration.,candle flame origami tree decoration,6,5
+candle190.jpg,Candles burning in a dark environment.,candles burning dark environment,6,4
+candle191.jpg,Candle flames burning in a dark environment.,candle flames burning dark environment,7,5
+candle192.jpg,"Candle flame in a red votive candle, softly glowing.",candle flame red votive candle softly glowing,9,7
+candle193.jpg,"Candles and flames in a dimly lit, sacred environment.",candles flames dimly lit sacred environment,9,6
+candle194.jpg,"Candles burning in a floral arrangement, church setting.",candles burning floral arrangement church setting,8,6
+candle195.jpg,Candle flame in festive setting with ornaments and greenery.,candle flame festive setting ornaments greenery,9,6
+candle196.jpg,Candlelight dinner with city view at dusk.,candlelight dinner city view dusk,7,5
+candle197.jpg,Birthday candles lit on a cake in a dimly lit room.,birthday candles lit cake dimly lit room,11,7
+candle198.jpg,"Candles lit on a dining table, creating a warm ambiance.",candles lit dining table creating warm ambiance,10,7
+candle199.jpg,Flame from lighter ignites candle in dark environment.,flame lighter ignites candle dark environment,8,6
+candle200.jpg,Man holding lit candle in dimly lit environment.,man holding lit candle dimly lit environment,8,7
