@@ -1,12 +1,4 @@
 filename,phrase,meaningful_tokens,word_count,meaningful_token_count
-bonfire1.jpg,Campfire in a forest setting.,campfire forest setting,5,3
-bonfire10.jpg,Campfire in a forest setting.,campfire forest setting,5,3
-bonfire100.jpg,Campfire burning in a grassy area.,campfire burning grassy area,6,4
-bonfire1.jpg,Campfire in a forest at dusk.,campfire forest dusk,6,3
-bonfire10.jpg,Campfire in a forest setting.,campfire forest setting,5,3
-bonfire100.jpg,Campfire burning in a grassy area.,campfire burning grassy area,6,4
-bonfire101.jpg,"Campfire in a backyard at night, surrounded by people.",campfire backyard night surrounded people,9,5
-bonfire102.jpg,Campfire burning on rocky terrain.,campfire burning rocky terrain,5,4
 bonfire1.jpg,Campfire in a forest at dusk.,campfire forest dusk,6,3
 bonfire2.jpg,"Beach campfire with marshmallows, twilight backdrop.",beach campfire marshmallows twilight backdrop,6,5
 bonfire3.jpg,Campfire in a backyard setting at dusk.,campfire backyard setting dusk,7,4
