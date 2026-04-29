@@ -1,0 +1,4 @@
+metric,value
+A  (dangerous fire images — best caption #1 or #2),2
+B  (total YOLO-detected fire images fed to CLIP),174
+A / B  (%),1.15
