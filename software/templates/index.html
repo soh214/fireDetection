@@ -1,0 +1,176 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Dangerous Fire Detection</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
+  </head>
+  <body>
+    <main class="app-shell">
+      <section class="panel control-panel">
+        <div>
+          <p class="eyebrow">YOLO11 + CLIP ViT-B/32</p>
+          <h1>Dangerous Fire Detection</h1>
+          <p class="subtle">
+            Select individual images or choose a whole folder. Every supported image is tested with YOLO first, then CLIP scores dangerous-fire captions. 'Dangerous fire' threshold: {{ "%.2f"|format(threshold) }}.
+          </p>
+        </div>
+
+        <form method="post" enctype="multipart/form-data" class="upload-form" id="detection-form">
+          <div class="picker-grid">
+            <label class="file-picker">
+              <span>Select image files</span>
+              <input type="file" name="images" accept="image/*" multiple data-file-input>
+            </label>
+            <label class="file-picker">
+              <span>Select image folder</span>
+              <input type="file" name="images" accept="image/*" webkitdirectory directory multiple data-file-input>
+            </label>
+          </div>
+
+          <div class="selection-status" id="selection-status" aria-live="polite">
+            No images selected.
+          </div>
+
+          <fieldset>
+            <legend>Result layout</legend>
+            <label class="radio-option">
+              <input type="radio" name="result_layout" value="images" {% if result_layout == "images" %}checked{% endif %}>
+              <span>Show dangerous images with YOLO boxes</span>
+            </label>
+            <label class="radio-option">
+              <input type="radio" name="result_layout" value="filenames" {% if result_layout == "filenames" %}checked{% endif %}>
+              <span>Show dangerous image filenames only</span>
+            </label>
+          </fieldset>
+
+          <button type="submit" id="run-button">Run detection</button>
+        </form>
+
+        {% if error %}
+          <div class="alert">{{ error }}</div>
+        {% endif %}
+      </section>
+
+      {% if results %}
+        <section class="summary-grid">
+          <div class="metric">
+            <strong>{{ results|length }}</strong>
+            <span>Images tested</span>
+          </div>
+          <div class="metric danger">
+            <strong>{{ dangerous_results|length }}</strong>
+            <span>Dangerous fire</span>
+          </div>
+          <div class="metric">
+            <strong>{{ device.upper() }}</strong>
+            <span>Inference device</span>
+          </div>
+        </section>
+
+        <section class="results-panel">
+          <div class="results-heading">
+            <h2>Results</h2>
+            <span>{{ dangerous_results|length }} dangerous image{% if dangerous_results|length != 1 %}s{% endif %}</span>
+          </div>
+
+          {% if dangerous_results %}
+            {% if result_layout == "filenames" %}
+              <ul class="filename-list">
+                {% for result in dangerous_results %}
+                  <li>
+                    <span>{{ result.filename }}</span>
+                    <small>score {{ "%.3f"|format(result.danger_score) }}</small>
+                  </li>
+                {% endfor %}
+              </ul>
+            {% else %}
+              <div class="image-grid">
+                {% for result in dangerous_results %}
+                  <article class="result-card">
+                    <img src="{{ result.annotated_image }}" alt="Detected fire in {{ result.filename }}">
+                    <div class="card-body">
+                      <h3>{{ result.filename }}</h3>
+                      <dl>
+                        <div>
+                          <dt>Danger score</dt>
+                          <dd>{{ "%.3f"|format(result.danger_score) }}</dd>
+                        </div>
+                        <div>
+                          <dt>YOLO conf</dt>
+                          <dd>{{ "%.3f"|format(result.yolo_conf) }}</dd>
+                        </div>
+                        <div>
+                          <dt>CLIP danger</dt>
+                          <dd>{{ "%.3f"|format(result.clip_danger_score) }}</dd>
+                        </div>
+                      </dl>
+                    </div>
+                  </article>
+                {% endfor %}
+              </div>
+            {% endif %}
+          {% else %}
+            <div class="empty-state">No dangerous fire images were detected.</div>
+          {% endif %}
+
+          {% set failed = results | selectattr("error") | list %}
+          {% if failed %}
+            <div class="failed-list">
+              <h3>Skipped files</h3>
+              {% for result in failed %}
+                <p>{{ result.filename }}: {{ result.error }}</p>
+              {% endfor %}
+            </div>
+          {% endif %}
+        </section>
+      {% endif %}
+    </main>
+
+    <div class="processing-overlay" id="processing-overlay" role="status" aria-live="assertive" aria-hidden="true">
+      <div class="processing-panel">
+        <div class="spinner" aria-hidden="true"></div>
+        <h2>Running fire detection</h2>
+        <p id="processing-message">Preparing selected images for YOLO11 and CLIP.</p>
+      </div>
+    </div>
+
+    <script>
+      const form = document.getElementById("detection-form");
+      const fileInputs = [...document.querySelectorAll("[data-file-input]")];
+      const runButton = document.getElementById("run-button");
+      const selectionStatus = document.getElementById("selection-status");
+      const overlay = document.getElementById("processing-overlay");
+      const processingMessage = document.getElementById("processing-message");
+
+      function selectedImageCount() {
+        return fileInputs.reduce((total, input) => total + input.files.length, 0);
+      }
+
+      function updateSelectionStatus() {
+        const count = selectedImageCount();
+        selectionStatus.textContent = count === 1 ? "1 image selected." : `${count} images selected.`;
+      }
+
+      fileInputs.forEach((input) => {
+        input.addEventListener("change", updateSelectionStatus);
+      });
+
+      form.addEventListener("submit", (event) => {
+        const count = selectedImageCount();
+        if (count === 0) {
+          event.preventDefault();
+          selectionStatus.textContent = "Select at least one image file or image folder.";
+          return;
+        }
+
+        runButton.disabled = true;
+        runButton.textContent = "Running detection...";
+        processingMessage.textContent = `Processing ${count} selected image${count === 1 ? "" : "s"} with YOLO11 and CLIP.`;
+        overlay.setAttribute("aria-hidden", "false");
+        overlay.classList.add("is-visible");
+      });
+    </script>
+  </body>
+</html>
