@@ -101,16 +101,21 @@ h3 {
   border: 1px dashed #9aa4b2;
   border-radius: 8px;
   background: #fbfcfe;
-  cursor: pointer;
 }
 
 .file-picker span,
 legend {
   font-weight: 800;
+  cursor: default;
 }
 
 input[type="file"] {
   width: 100%;
+  cursor: pointer;
+}
+
+input[type="file"]::file-selector-button {
+  cursor: pointer;
 }
 
 .selection-status {
@@ -120,6 +125,7 @@ input[type="file"] {
   background: #eef2f7;
   color: var(--muted);
   font-weight: 700;
+  cursor: default;
 }
 
 fieldset {
