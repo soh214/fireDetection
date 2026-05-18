@@ -52,6 +52,7 @@ body {
   font-weight: 800;
   letter-spacing: 0;
   text-transform: uppercase;
+  cursor: default;
 }
 
 h1,
@@ -66,6 +67,7 @@ h1 {
   font-size: clamp(2rem, 2.8rem, 3rem);
   line-height: 1.04;
   letter-spacing: 0;
+  cursor: default;
 }
 
 h2 {
@@ -81,6 +83,7 @@ h3 {
   max-width: 720px;
   color: var(--muted);
   line-height: 1.6;
+  cursor: default;
 }
 
 .upload-form {
@@ -180,6 +183,7 @@ button:disabled {
 
 .metric {
   padding: 18px;
+  cursor: default;
 }
 
 .metric strong {
@@ -198,6 +202,7 @@ button:disabled {
 .results-panel {
   margin-top: 18px;
   padding: 22px;
+  cursor: default;
 }
 
 .results-heading {
