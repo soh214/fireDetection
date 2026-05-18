@@ -114,7 +114,7 @@ legend {
 
 input[type="file"] {
   width: 100%;
-  cursor: pointer;
+  cursor: default;
 }
 
 input[type="file"]::file-selector-button {
